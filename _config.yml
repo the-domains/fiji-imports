@@ -1,7 +1,7 @@
 name: Fiji Imports
 favicon: null
 layout_spectrum: 0.22944895760156214
-typography_spectrum: 0.6979029283393174
+typography_spectrum: 0.66656
 title: Fiji Imports
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.8517207237891853
-  lightness: 0.2767919839825481
+    - '#542f00'
+    - '#96d348'
+    - '#000000'
+    - '#c2a580'
+    - '#00ff00'
+  brandStrength: 0.6875
+  lightness: 0.5625
   saturation: 0.5974551611579955
-  rhythmicContrast: 0.7160447523929179
+  rhythmicContrast: 0.5
 purpose: []
